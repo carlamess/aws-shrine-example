@@ -5,5 +5,7 @@
   <%= @photo.image_data %>
 </p>
 
+<%= image_tag @photo.image.url(public: true) %>
+
 <%= link_to 'Edit', edit_photo_path(@photo) %> |
 <%= link_to 'Back', photos_path %>
