@@ -23,3 +23,6 @@
 }
 ```
 4. Fire up the rails server and visit `localhost:3000` and start uploading via the form!
+
+## Documentation
+* http://shrinerb.com/
