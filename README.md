@@ -25,4 +25,6 @@
 4. Fire up the rails server and visit `localhost:3000` and start uploading via the form!
 
 ## Documentation
+* https://aws.amazon.com/documentation/s3/
+* https://aws.amazon.com/documentation/iam/
 * http://shrinerb.com/
