@@ -1,6 +1,6 @@
 # README
-1. `bundle install`
-2. Setup an Amazon S3 bucket named `aws-shrine-upload` or something unnique to your region.
+1. Run `bundle install`
+2. Setup an Amazon S3 bucket named `aws-shrine-upload` or something unique to your region.
 3. Setup an IAM user on the S3 bucket above with the following in-line policy:
 ```
 {
